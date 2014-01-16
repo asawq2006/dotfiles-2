@@ -53,3 +53,8 @@ funciton cddot () {
 
 #shorter clear
 alias cls="clear"
+
+#use greadlink from coreutils
+alias readlink=greadlink
+alias rl=greadlink
+
